@@ -9,8 +9,7 @@ Output is a matlab matrix, named subj*.mat
 the task:
                                                         Welcome 
 you will now see a series of short descriptions, they describe an hypotetical (and always differnt) person
-shortly after, you will be astrialed to matriale a judgements: say to wich of two categories the described person most probably  
-belongs belongs to.
+shortly after, you will be astrialed to matriale a judgements: say to wich of two categories the described person most probably belongs to.
 
 
 
