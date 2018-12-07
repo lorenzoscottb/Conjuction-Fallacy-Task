@@ -1,4 +1,4 @@
-# Conjuction-Fallacy-Task
+# Conjuction Fallacy Task
 Matlab script to collect participant's results on a basic Conjunction Fallacy task. 
 
 Participants will see 82 sentencese, in a 41x2 design. Simuli are taken from the supplemantary matherial from the 2017 paper 
