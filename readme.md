@@ -8,7 +8,7 @@ Output is a matlab matrix, named subj*.mat
 
 the task:
 ```bash
-                                                        Welcome 
+                                                      Welcome 
 you will now see a series of short descriptions, they describe an hypotetical (and always difernt) person
 shortly after, you will be astrialed to matriale a judgements: say to wich of two categories the described person most
 probably belongs to.
